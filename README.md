@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>💻 CSE Student • Software Developer • Problem Solver</b>
+  <b>💻 CSE Student </b>
 </p>
 
 <p align="center">
