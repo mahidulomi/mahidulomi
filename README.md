@@ -1,7 +1,17 @@
 # 👋 Hi, I am Omi
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I%20am%20Omi&fontSize=45&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%2C%20I%20am%20Omi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+<p align="center">
+  <b>💻 CSE Student • Software Developer • Problem Solver</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mahidulomi21">
+    <img src="https://komarev.com/ghpvc/?username=mahidulomi21&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
@@ -10,131 +20,24 @@
 
 <table>
 <tr>
-<td>
+<td width="60%">
 
-🎓 **CSE Student**
+🎓 **Computer Science & Engineering Student**
 
-💻 **Interested in Software Development**
+🌱 Currently learning **DSA, React, Node.js & PostgreSQL**
 
-🌱 **Currently Learning:** DSA, React, Node.js & PostgreSQL
+🚀 Building **Full-Stack & Database Projects**
 
-🚀 **Building:** Full-Stack & Database Projects
-
-🧠 **Interested In:** Problem Solving & Software Engineering
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,postgres,mysql,oracle,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🎬 Cineverse — IMDb Clone
-
-A full-stack movie management platform built with:
-
-- React
-- Node.js
-- PostgreSQL
-- JWT Authentication
+⚡ Always trying to **learn, build and improve**
 
 </td>
 
-<td width="50%">
+<td width="40%">
 
-### 🎮 2D Game
-
-A tile-based 2D game developed using:
-
-- C/C++
-- iGraphics
-- Game Logic
-- Collision Detection
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 Shop Management System
-
-Desktop application developed using:
-
-- Java
-- JavaFX
-- Scene Builder
-- Database
-
-</td>
-
-<td width="50%">
-
-### 🧩 DSA & Competitive Programming
-
-Solving algorithmic problems involving:
-
-- Graphs
-- Dijkstra
-- MST
-- Max Flow
-- Dynamic Programming
-
-</td>
-
-</tr>
-</table>
-
----
-
-
+```text
+while(alive) {
+    learn();
+    build();
+    solve();
+    improve();
+}
