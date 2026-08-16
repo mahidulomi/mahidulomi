@@ -22,7 +22,7 @@
 <tr>
 <td width="60%">
 
-🎓 **Computer Science & Engineering Student**
+
 
 🌱 Currently learning **DSA, React, Node.js & PostgreSQL**
 
