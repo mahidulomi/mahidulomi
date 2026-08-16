@@ -32,12 +32,5 @@
 
 </td>
 
-<td width="40%">
 
-```text
-while(alive) {
-    learn();
-    build();
-    solve();
-    improve();
-}
+
